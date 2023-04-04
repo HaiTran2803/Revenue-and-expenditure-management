@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Assignment Trung Kết PH09802</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gioi_thieu">GioiThieuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="content_description">Assignment HT</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_nav_khoan_thu">Khoản thu</string>
+    <string name="title_nav_khoan_chi">Khoản chi</string>
+    <string name="title_nav_thong_ke">Thống kê</string>
+    <string name="title_nav_khac">Khác</string>
+    <string name="title_nav_gioi_thieu">Giới thiệu</string>
+    <string name="title_nav_dang_xuat">Đăng xuất</string>
+    <string name="title_quan_ly_thu_chi">Quản lý thu chi</string>
+    <string name="qu_n_l_thu_chi">Quản lý Thu Chi</string>
+</resources>
